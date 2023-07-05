@@ -1,3 +1,3 @@
-# Task8
+# Task9 Ecommerce card
 
-live link:  https://mohiitsingh.github.io/Task8/
+live link:  https://mohiitsingh.github.io/Ecommerce-card/
